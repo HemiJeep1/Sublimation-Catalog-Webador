@@ -50,7 +50,7 @@ const productGroups = [
       ["Aging", "Aging.jpg"],
       ["Coffee don't do miracles", "Coffee don't do miracles.jpg"],
       ["Day drinking", "Day drinking.jpg"],
-      ["Knit strangle people", "Knit strangle people.jpg"],
+      ["Knit not strangle people", "Knit not strangle people.jpg"],
       ["Many tabs open", "Many tabs open.jpg"],
       ["Mind own business", "Mind own buisiness.jpg"],
       ["Not bossy", "Not bossy.jpg"],
