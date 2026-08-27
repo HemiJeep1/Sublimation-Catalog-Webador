@@ -37,7 +37,7 @@ const productGroups = [
       ["Cozy Beach Landscape", "Cozy Beach Landscape.png"],
       ["3D Palm Trees Beach Ocean 2", "3D Palm Trees Beach Ocean 2.png"],
       ["3D Seashells Beach Ocean", "3D Seashells Beach Ocean.png"],
-      ["Blue Flowers", "Blue Flowers.png"],
+      ["Blue Flowers", "Blue flowers.png"],
       ["Guinness", "Guinness.jpg"],
     ],
   },
