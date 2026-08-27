@@ -89,7 +89,7 @@ const productGroups = [
       ["Today's Menu", "Todays menu.png"],
       ["Kitchen Is for Dancing", "Kitchen for Dancing.png"],
       ["Coffee Before Talkie", "Coffee Before Talkie.png"],
-      ["Hot Mess in the Kitchen", "Hot mess in kitchen.png"],
+      ["Hot Mess in the Kitchen", "Hot mess in the kitchen.png"],
       ["Wine a Little, Laugh a Lot", "Wine little laugh lot.png"],
       ["Messy Kitchen", "Messy kitchen.png"],
       ["Kitchen Came With the House", "Kitchen came with house.png"],
