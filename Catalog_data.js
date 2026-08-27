@@ -128,10 +128,9 @@ const productGroups = [
     products: [
       ["Banff Tram", "Banff Tram.png"],
       ["Bear Family", "Bear Family.png"],
-      ["Beaver", "Day Beaver.png"],
+      ["Beaver", "Beaver.png"],
       ["Big Horn Sheep", "Big Horn Sheep.png"],
       ["Calgary City", "Calgary City.png"],
-      ["Mind own business", "Mind own buisiness.jpg"],
       ["Cowboy Horse Fire", "Cowboy Horse Fire.png"],
       ["Cowboy on Horse", "Cowboy on Horse.png"],
     ],
